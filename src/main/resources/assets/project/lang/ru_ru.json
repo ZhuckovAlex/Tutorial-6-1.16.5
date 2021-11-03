@@ -1,0 +1,10 @@
+{
+  "item.project.tutorial_item": "Обучающий предмет",
+
+  "block.project.redium": "Редиум",
+  "block.project.firewood_wood": "Древесина огнедерева",
+  "block.project.firewood_log": "Бревно огнедерева",
+
+  "itemGroup.carrot": "Морковь",
+  "itemGroup.iron_block": "Железный блок"
+}

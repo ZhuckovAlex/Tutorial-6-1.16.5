@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "project:firewood_log",
+    "project:firewood_wood"
+  ]
+}
